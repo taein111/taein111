@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taein's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Taein's%20Github&fontSize=60)
 <!--
 **taein111/taein111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
